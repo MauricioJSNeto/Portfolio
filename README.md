@@ -9,5 +9,5 @@ O contorle das taresfas desse projeto será realizado no GitHub
 
 :package: nova funcionalidade
 :up: atualização
-:Lady Beetle: correção de bug
+:beetle: correção de bug
 :checkered_flag: release
