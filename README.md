@@ -3,7 +3,7 @@ Portfólio do desenvolvedor
 
 ## Tarefas
 
-O contorle das taresfas desse projeto será realizado no GitHub
+O controle das tarefas desse projeto será realizado no GitHub
 
 ## Ícones
 
